@@ -1,0 +1,44 @@
+.common__section {
+    background: url("../assets/images/banner-02.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 80px 0px;
+  }
+  
+  .form__group {
+    background: #ffa500; /* Warna dasar oranye cerah */
+    padding: 20px; /* Menambahkan padding untuk meningkatkan jarak */
+    margin: 10px 0; /* Menambahkan margin atas dan bawah */
+  }
+  
+  .form__group input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0; /* Menambahkan margin atas dan bawah untuk input fields */
+  }
+  
+  .form__group button {
+    background: #ffa500; /* Warna tombol oranye cerah */
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .form__group button:hover {
+    background: #ff6600; /* Warna latar belakang berubah saat hover */
+  }
+  
+  .form__group a {
+    color: #ffa500; /* Warna teks link oranye cerah */
+    text-decoration: none;
+    margin-top: 10px; /* Menambahkan margin atas */
+    display: inline-block;
+  }
+  
+  .form__group a:hover {
+    color: #ff6600; /* Warna teks link berubah saat hover */
+  }
+  

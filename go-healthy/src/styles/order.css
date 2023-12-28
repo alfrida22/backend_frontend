@@ -1,0 +1,39 @@
+/* styles.module.css atau nama file sesuai kebutuhan */
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.status-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.status-item {
+    text-align: center;
+}
+
+.status-item img {
+    margin-bottom: 10px;
+}
+
+.order-details {
+    margin-top: 20px;
+}
+
+.confirm-button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: orange; /* Tambahkan properti background-color dengan warna oranye */
+    color: white; /* Untuk memastikan teksnya terlihat, Anda bisa memberikan warna putih atau sesuai kebutuhan */
+    padding: 10px 20px; /* Sesuaikan padding sesuai kebutuhan */
+    border: none; /* Hilangkan border jika tidak diperlukan */
+    cursor: pointer;
+  }
+  
+  .confirm-button:hover {
+    background-color: darkorange; /* Warna yang akan muncul saat button dihover */
+  }
+/* Tambahan styling jika diperlukan */
