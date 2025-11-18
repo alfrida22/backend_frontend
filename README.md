@@ -1,0 +1,1 @@
+Backend untuk platform e-commerce makanan sehat Go-Healthy, dibangun menggunakan PHP + MySQL. Project ini menyediakan seluruh logika CRUD, autentikasi, manajemen produk, keranjang belanja, dan pemrosesan pesanan.
